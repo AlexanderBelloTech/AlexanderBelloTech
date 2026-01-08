@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my GitHub
 
-I'm **Alexander Bello**, an iOS Developer focused on building reliable, scalable and well-structured mobile applications.
+I'm **Alexander Bello**, an iOS Developer focused on exploring iOS development concepts through practical projects and experiments.
 
 I enjoy working on clean architecture, reusable UI components, modular features and performance-oriented solutions that improve the quality of iOS apps.
 
@@ -12,7 +12,6 @@ I enjoy working on clean architecture, reusable UI components, modular features 
 - 🏗️ MVVM-C • Clean Architecture • Modular Design  
 - 🛠 Unit Tests • Analytics • Programmatic UI • CI/CD
 - 🎓 BSc. Information Systems  
-- 🏛 Founding Member — Irmandade Swift Community  
 - ✍️ Writing about iOS development on Medium (@AlexanderBelloTech)
 
 <div style="display: inline_block"><br>
