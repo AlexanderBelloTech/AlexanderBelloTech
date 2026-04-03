@@ -11,8 +11,9 @@ I enjoy working on clean architecture, reusable UI components, modular features 
 - 🧩 UIKit • SwiftUI • Combine  
 - 🏗️ MVVM-C • Clean Architecture • Modular Design  
 - 🛠 Unit Tests • Analytics • Programmatic UI • CI/CD
+- 🏆 Swift Student Challenge Winner - WWDC 2026
 - 🎓 BSc. Information Systems
-- 🎓 Postgraduate in Mobile Engineering — PUC
+- 🎓 Postgrad. in Sofware Engineering — PUC-Rio
 - ✍️ Writing about iOS development on Medium (@AlexanderBelloTech)
 
 <div style="display: inline_block"><br>
